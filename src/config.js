@@ -16,7 +16,7 @@ module.exports = {
         dribbble: '',
         behance: '',
         medium: 'https://medium.com/@mohitvarikuti',
-        devto: 'arifszn',
+        devto: 'githubemploy',
         website: 'https://githubemploy.github.io/ezprofile',
         phone: '',
         email: 'mohit.varikuti@gmail.com'
