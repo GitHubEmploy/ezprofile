@@ -1,7 +1,7 @@
 // config.js
 module.exports = {
     github: {
-        username: 'arifszn', // Your GitHub org/user name. (Required)
+        username: 'GitHubEmploy', // Your GitHub org/user name. (Required)
         sortBy: 'stars', // stars | updated
         limit: 8, // How many projects to display.
         exclude: {
@@ -15,11 +15,11 @@ module.exports = {
         facebook: '',
         dribbble: '',
         behance: '',
-        medium: '',
+        medium: 'https://medium.com/@mohitvarikuti',
         devto: 'arifszn',
-        website: 'https://arifszn.github.io',
+        website: 'https://githubemploy.github.io/ezprofile',
         phone: '',
-        email: 'arifulalamszn@gmail.com'
+        email: 'mohit.varikuti@gmail.com'
     },
     skills: [
         'PHP',
